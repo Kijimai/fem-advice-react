@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
+- Solution URL: [Github](https://github.com/Kijimai/fem-advice-react)
 - Live Site URL: [Netlify](advice-gen-reactjs.netlify.app)
 
 ## My process
