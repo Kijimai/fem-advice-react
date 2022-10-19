@@ -21,7 +21,9 @@ const Advice = () => {
     setLoading(false)
   }
 
-  useEffect(() => getAdvice, [])
+  useEffect(() => {
+    getAdvice()
+  }, [])
 
   return (
     <article className="advice">
